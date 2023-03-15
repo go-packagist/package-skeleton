@@ -1,4 +1,4 @@
-# :Package name
+# :package-name
 
 [![Go Version](https://badgen.net/github/release/go-packagist/:package-name/stable)](https://github.com/go-packagist/:package-name/releases)
 [![GoDoc](https://pkg.go.dev/badge/github.com/go-packagist/:package-name)](https://pkg.go.dev/github.com/go-packagist/:package-name)
